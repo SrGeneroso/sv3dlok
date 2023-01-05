@@ -4,7 +4,7 @@ description: Esta etiqueta es lo que se mostrara en el resultado de google.
 summary: 📝 Aqui va la descripcion del post.
 language: español
 published: '2023-01-05T02:52:42.00'
-# updated: '2023-01-05T02:55:58.69Z+01:00'
+# updated: '2023-01-01T02:55:58.69Z+01:00'
 cover: ./str3dlok.png
 coverCaption: Rendered in Blender
 coverStyle: 'IN'
